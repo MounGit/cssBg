@@ -115,6 +115,10 @@ background-repeat: repeat-y;
     background-size: cover;
 }
 .img-11{
+    background-image: url(../images/bg_image_petite.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 /* fin exo 05 background-size*/
 
