@@ -103,10 +103,16 @@ background-repeat: repeat-y;
 
 /* début exo 05 background-size*/
 .img-8{ 
+    background-image: url(../images/bg_image_petite.jpg);
+    background-size: 10%;
 }
 .img-9{ 
+    background-image: url(../images/bg_image_petite.jpg);
+    background-size: 100px 200px;
 }
 .img-10{
+    background-image: url(../images/bg_image_petite.jpg);
+    background-size: cover;
 }
 .img-11{
 }
